@@ -25,6 +25,7 @@ Here are some screenshots of the Web Developer Salary Prediction App:
 
 ![Prediction Page](Predict_Page.png)
 *Prediction Page allows users to input information for salary prediction.*
+
 ![Explore Page](Explore.png)
 *Explore Page displays salary distribution trends.*
 
