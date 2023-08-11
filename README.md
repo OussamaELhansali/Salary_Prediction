@@ -4,7 +4,7 @@ This project demonstrates a Machine Learning web application built using Python 
 
 ## How It Works
 
-1. **Data Collection**: The survey data is downloaded from [Stack Overflow](https://stackoverflow.com/). It contains valuable insights from web developers around the world.
+1. **Data Collection**: The survey data is downloaded from [Stack Overflow](https://insights.stackoverflow.com/survey). It contains valuable insights from web developers around the world.
 
 2. **Data Preprocessing**: The downloaded data is cleaned and preprocessed in the `ML_Salary_App.ipynb` notebook. This includes handling missing values, encoding categorical variables, and preparing the dataset for model training.
 
