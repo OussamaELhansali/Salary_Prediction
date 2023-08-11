@@ -23,10 +23,10 @@ This project demonstrates a Machine Learning web application built using Python 
 
 Here are some screenshots of the Web Developer Salary Prediction App:
 
-![Prediction Page](blob/main/Screenshots/Predict_Page.png)
+![Prediction Page](Screenshots/Predict_Page.png)
 *Prediction Page allows users to input information for salary prediction.*
 
-![Explore Page](blob/main/Screenshots/Explore.png))
+![Explore Page](Screenshots/Explore.png))
 *Statistics Page displays salary distribution trends.*
 
 Feel free to explore the app and its functionalities with these screenshots.
@@ -36,8 +36,8 @@ Feel free to explore the app and its functionalities with these screenshots.
 
 1. Clone the repository and navigate to it:
    ```sh
-   git clone https://github.com/OussamaELhansali/Salary_Prediction
-   cd Salary_Prediction
+      git clone https://github.com/OussamaELhansali/Salary_Prediction
+      cd Salary_Prediction
    ```
 2. Install the required packages:
   ```sh
@@ -45,10 +45,10 @@ Feel free to explore the app and its functionalities with these screenshots.
   ```
 3. Run the Streamlit app:
   ```sh
-   streamlit eun app.py
+   streamlit run app.py
   ```
 ## Contact
 
 For any inquiries, feel free to reach out at [oussamaelhansali@gmail.com](mailto:oussamaelhansali@gmail.com).
 
-Feel free to contact us for any inquiries or feedback regarding this project.
+Feel free to contact me for any inquiries or feedback regarding this project.
