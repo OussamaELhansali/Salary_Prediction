@@ -18,6 +18,20 @@ This project demonstrates a Machine Learning web application built using Python 
    - **Prediction Page**: Users input their country, education level, and years of experience. The model processes this information and provides an estimated salary prediction.
    - **Statistics Page**: Visualizations showcase salary distribution trends based on the available dataset.
 
+
+## Screenshots
+
+Here are some screenshots of the Web Developer Salary Prediction App:
+
+![Prediction Page](screenshots/Predict_Page.png)
+*Prediction Page allows users to input information for salary prediction.*
+
+![Statistics Page](screenshots/Explore.png)
+*Statistics Page displays salary distribution trends.*
+
+Feel free to explore the app and its functionalities with these screenshots.
+
+
 ## Getting Started
 
 1. Clone the repository and navigate to it:
